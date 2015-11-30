@@ -1,0 +1,8 @@
+c:\MyProjects\LineOrder39\ConsoleApplication1\bin\x86\Debug\ConsoleApplication1.exe.config
+c:\MyProjects\LineOrder39\ConsoleApplication1\bin\x86\Debug\ConsoleApplication1.exe
+c:\MyProjects\LineOrder39\ConsoleApplication1\bin\x86\Debug\ConsoleApplication1.pdb
+c:\MyProjects\LineOrder39\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+c:\MyProjects\LineOrder39\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+c:\MyProjects\LineOrder39\ConsoleApplication1\bin\x86\Debug\nunit.framework.dll
+c:\MyProjects\LineOrder39\ConsoleApplication1\bin\x86\Debug\nunit.framework.xml
+c:\MyProjects\LineOrder39\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
